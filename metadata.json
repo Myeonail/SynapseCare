@@ -1,0 +1,6 @@
+{
+  "name": "SynapseCare - Ekosistem Digital MHM ODGJ Perempuan",
+  "description": "Prototipe ekosistem tata kelola digital Menstrual Hygiene Management (MHM) untuk perempuan ODGJ berbasis pemantauan klinis, edukasi terstruktur, logistik just-in-time, dan kemitraan lintas sektor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
